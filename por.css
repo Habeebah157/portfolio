@@ -1,0 +1,58 @@
+
+body{
+    background-color: rgb(211, 226, 241);
+}
+center{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 50px;
+    color: navy;
+}
+.p1{
+    position: absolute;
+    top: 500px;
+    left: 700px;
+
+
+}
+strong.take{
+    font-size: 20px;
+    color: lightslategray;
+}
+.container{
+    margin: 0;
+    position: absolute;
+    top:70%;
+    left: 40%;
+    transform: translate(-50%, -50%);
+}
+h1{
+    font-family: sans-serif;
+    text-align: center;
+    position: absolute;
+    top: 300;
+    left: 140;
+
+}
+.rounded{
+    border-radius: 50%;
+    padding: 1px;
+    border: 8px solid transparent;
+
+}
+.p2{
+    position: absolute;
+    top:1000px;
+    left: 800px;
+    width: 120px;
+}
+.rounded2{
+    border-radius: 50%;
+    padding: 1px;
+    border: 8px solid transparent;
+    position: absolute;
+    left: 450;
+    top: 900;
+}
+em{
+    background: turquoise;
+}
